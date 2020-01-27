@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+   
+}   
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#img-div {
+    display: flex;
+    justify-content: center;
+}
+
+#title {
+    text-align: center;
+    padding:30px;
+    font-size: 42px;
+}
+
+#img-caption {
+    text-align: center;
+    padding: 10px;
+}
+
+li {
+    padding: 15px;
+}
+
+#tribute-info {
+    display: flex;
+    justify-content: center;
+    background-color: #EEEEEE;
+}
+
+#Accomplishments {
+    text-align: center;
+    padding: 5px;
+}
+
+#title {
+    background-color: #EEEEEE;
+}
